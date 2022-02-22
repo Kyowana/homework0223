@@ -1,0 +1,23 @@
+#logo {
+    background-color: #2e2e2e;
+}
+#title {
+    background-color: #f1e583;
+}
+#menu {
+    background-color: #ebebeb;
+    padding: 10px;
+}
+#content {
+    background-color: #ffffff;
+    border-style: dotted;
+    border-width: 2px;
+    border-color: #2e2e2e;
+    padding: 10px;
+}
+td {
+    border-radius: 20px;
+}
+h1 {
+    margin: 20px;
+}
